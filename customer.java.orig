@@ -1,0 +1,16 @@
+<<<<<<< HEAD
+<<<<<<<<<< HEAD234
+import java.Time.*;//user2
+=======
+=======
+<<<<Head1
+>>>>>>> be159bb80630ee10c3a1e7ced1ae2222f8268833
+import java.Time.*;//user1
+>>>>>>> cdf32af0ecb859bca81a53438abbd106a6841994
+class customer{
+private long customerId;
+private String name;
+private LocalDate dob;
+
+}
+
